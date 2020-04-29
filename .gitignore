@@ -1,0 +1,4 @@
+aclImdb/
+*.ipynb
+.vscode
+*.pyc
